@@ -1,0 +1,45 @@
+/COM,ANSYS RELEASE 2024 R1           BUILD 24.1      UP20231106       22:12:00
+
+ *** WARNING ***                         CP =       0.328   TIME= 22:12:00
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.391   TIME= 22:12:00
+ Material number 7 (used by element 1715) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       0.391   TIME= 22:12:00
+ No constraints have been defined using the D command.                   
+
+ *** WARNING ***                         CP =       7.562   TIME= 22:12:07
+ Fewer modes than the requested number of modes ( 200 ) were computed.   
+ The range specified (FREQB= 250, FREQE= 2000) contains only 178 modes.  
+
+ *** WARNING ***                         CP =       7.625   TIME= 22:12:07
+ Material number 7 (used by element 1715) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       7.625   TIME= 22:12:07
+ No constraints have been defined using the D command.                   
+
+ *** WARNING ***                         CP =      20.000   TIME= 22:12:19
+ Some of the nodes in the selected set were on beam elements for which   
+ the SFDEL command is not valid.  Use the SFEDELE command instead.       
+
+ *** WARNING ***                         CP =      20.000   TIME= 22:12:19
+ To avoid duplication when using the LVSCALE command, delete all loads   
+ unless already deleted.                                                 
+
+ *** WARNING ***                         CP =      20.062   TIME= 22:12:19
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =      20.125   TIME= 22:12:19
+ Material number 7 (used by element 1715) should normally have at least  
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =      20.125   TIME= 22:12:19
+ No constraints have been defined using the D command.                   
