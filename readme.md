@@ -1,26 +1,24 @@
-# Some pyansys data post-processing 
+# pyansys data post-processing example with Jupyter
 
 ## Installation
 
-Notebooks were run with Python 3.12.3
+(Notebooks were run with Python 3.12.3)
 
 *Recommended*: create a virtual environment with:
-
 ```bash
 python -m venv .venv
 ```
-Activate the environment with (Windows cmd / Command Prompt instructions - not powershell!)
+In the Windows command prompt, activate the virtual environment with:
 ```bash
-.\.venv\Scripts\activated.bat 
+.\.venv\Scripts\activate.bat 
 ```
 
-Install packages
+Install Python packages
 ```bash
 pip install -r requirements.txt
 ```
 
-Run a notebook with
-
+Run a Jupyter notebook with:
 ```bash
-jupyter notebook NOTEBOOK_PATH_HERE
+jupyter notebook NOTEBOOK_PATH
 ```
